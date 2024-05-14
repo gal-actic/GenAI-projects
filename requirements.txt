@@ -1,0 +1,10 @@
+# important libraries
+
+streamlit 
+google-generativeai #for google gemini pro
+python-dotenv # to load all env variables
+langchain # to read pdf
+PyPDF2
+chromadb #alter to faiss-cpu
+faiss-cpu # faiss-gpu for parallel processing and more files
+langchain_google_genai # with help of langchain access api's of google genai
