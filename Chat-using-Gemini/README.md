@@ -19,7 +19,7 @@ This project is a simple web application that allows users to upload multiple PD
 - **HTML/CSS**: Used for styling the frontend.
 
 ## Usage
-1. Upload PDF files using the file uploader on the sidebar.
+'1.' Upload PDF files using the file uploader on the sidebar.
 2. Click the "Submit" button to process the uploaded PDFs.
 3. Ask questions in the chat input box and click "Send" to get answers from Gemini.
 
